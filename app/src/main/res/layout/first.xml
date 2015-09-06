@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.AnimationExample.SlidingRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/click_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#00ff00">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="First"
+        android:textColor="#FFFFFF"
+        android:textSize="40sp" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="click"
+        android:onClick="click"/>
+</com.example.AnimationExample.SlidingRelativeLayout>
+

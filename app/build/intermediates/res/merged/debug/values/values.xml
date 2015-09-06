@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/ducnd/Desktop/project_androidstudio/ActivityAnimationExample/app/src/main/res/values/integers.xml -->
+    <eat-comment/>
+    <integer name="card_flip_time_full">300</integer>
+    <integer name="card_flip_time_half">150</integer>
+    <integer name="half_slide_up_down_duration">150</integer>
+    <integer name="slide_up_down_duration">200</integer>
+    <integer name="slide_up_down_final_value">150</integer>
+    <!-- From: file:/home/ducnd/Desktop/project_androidstudio/ActivityAnimationExample/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">AnimationExample</string>
+    <!-- From: file:/home/ducnd/Desktop/project_androidstudio/ActivityAnimationExample/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="Transparent">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>
